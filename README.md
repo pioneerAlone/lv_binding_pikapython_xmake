@@ -5,7 +5,7 @@
 基于windows(mingw)+xmake 构建PikaPython 并绑定lvgl.
 
 构建演示：
-![Demo GIF](https://github.com/pioneerAlone/lv_binding_pikapython_xmake/images/lvgl_pikapython_xmake.gif)
+![Demo GIF](images/lvgl_pikapython_xmake.gif)
 
 
 
